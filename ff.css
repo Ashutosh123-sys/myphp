@@ -1,0 +1,13 @@
+#centree{
+    text-align: center;
+    /* background-color: aqua; */
+    padding: 10px;
+    background-color: rgb(217, 229, 225);
+}
+#from{
+    font-size:25px;
+    padding: 2px;
+}
+#to{
+
+}
